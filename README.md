@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# How to use program
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. Firstly, it is recommended to use Visual Studio Code for your terminal. Make sure you have it downloaded!
+2. Make sure you have downloaded React. Use the link provided as a guide: https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
+3. Once the download is completed and you have ensured it works properly on your computer, open Visual Studio Code, and then open the Terminal.
+4. Make sure the files on this repo have been downloaded, and name it "ParentsAndChildren"
+5. Use the command 'cd' to navigate to where the downloaded files have been saved on your computer.
+6. Once navigated to the correct folder, use the command 'npm install'.
+7. This may show some warnings, but for now they can be ignored. Continue the installation as it prompts until it is completed.
+8. Once completed, run 'npm start' and it should open your default browser on a local host to the file.
+9. Now that the file is opened, you can press the two buttons on the screen to change the colors!
+10. To change any of the contents inside to your liking, you can make adjustments to the downloaded documents in the 'index.js' file or the 'App.js', 'App.test.js' 'Button.js'.
 
 ## Available Scripts
 
