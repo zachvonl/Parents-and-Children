@@ -1,4 +1,7 @@
-# How to use program
+# React Program that Changes Button Colors
+This program is a simple React application that demonstrates state management and component reusability. It features two buttons, each with its own background color. When a button is clicked, its background color changes to a random color independently of the other button. The program uses a parent-child component relationship: the App component (parent) manages the state and logic, while the Button component (child) receives data (color) and behavior (click handler) via props and renders the button UI. This example illustrates how React components can work together to create modular, reusable, and interactive user interfaces.
+
+# How to use Program
 
 1. Firstly, it is recommended to use Visual Studio Code for your terminal. Make sure you have it downloaded!
 2. Make sure you have downloaded React. Use the link provided as a guide: https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
